@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
 const importSurvivorData = require("./survivors.json")
-const importKillData = require("./killer.json")
+const importKillerData = require("./killers.json")
 let port = process.env.PORT || 3000
 
 app.use((req, res, next) => {
@@ -18,7 +18,7 @@ app.get("/friends-survivors", (req, res) => {
 })
 
 app.get("/friends-killers", (req, res) => {
-  res.send(importKillData)
+  res.send(importKillerData)
 })
 
 app.listen(port, () => {
