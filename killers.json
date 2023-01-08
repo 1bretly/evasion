@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Adrian",
+    "killer": "Oni",
+    "perks": [
+      "Monitor & Abuse",
+      "Overcharge",
+      "Sloppy Butcher",
+      "Thanatophobia"
+    ]
+  },
+  {
+    "name": "Aplod",
+    "killer": "Knight",
+    "perks": [
+      "Fearmonger",
+      "Scourge Hook: Gift of Pain",
+      "Scourge Hook: Pain Resonance",
+      "Shattered Hope"
+    ]
+  },
+  {
+    "name": "Amz",
+    "killer": "Doctor",
+    "perks": ["Deerstalker", "I'm All Ears", "Iron Grasp", "Tinkerer"]
+  },
+  {
+    "name": "Brandon",
+    "killer": "Nemesis",
+    "perks": ["A Nurse's Calling", "Fearmonger", "Tinkerer", "Unrelenting"]
+  },
+  {
+    "name": "Doughnut",
+    "killer": "Shape",
+    "perks": [
+      "Iron Grasp",
+      "Save The Best For Last",
+      "Scourge Hook: Pain Resonance",
+      "Sloppy Butcher"
+    ]
+  },
+  {
+    "name": "Dakota",
+    "killer": "Legion",
+    "perks": ["Coulrophobia", "Dark Devotion", "Distressing", "Thanatophobia"]
+  },
+  {
+    "name": "Forte",
+    "killer": "Huntress",
+    "perks": [
+      "Darkness Revealed",
+      "Deadlock",
+      "Lethal Pursuer",
+      "Scourge Hook: Pain Resonance"
+    ]
+  },
+  {
+    "name": "Jai",
+    "killer": "Trickster",
+    "perks": [
+      "Call of Brine",
+      "Darkness Revealed",
+      "Scourge Hook: Floods Of Rage",
+      "Tinkerer"
+    ]
+  },
+  {
+    "name": "Jason",
+    "killer": "Nemesis",
+    "perks": [
+      "BBQ & Chilli",
+      "Discordance",
+      "Sloppy Butcher",
+      "Spies From The Shadows"
+    ]
+  },
+  {
+    "name": "Mario",
+    "killer": "Spirit",
+    "perks": ["Agitation", "Hex: Blood Favor", "Hex: Devour Hope", "Starstruck"]
+  },
+  {
+    "name": "Micah",
+    "killer": "Shape",
+    "perks": [
+      "Brutal Strength",
+      "Overcharge",
+      "Pop Goes The Weasel",
+      "Trail of Torment"
+    ]
+  },
+  {
+    "name": "Zack",
+    "killer": "Spirit",
+    "perks": ["Corrupt Intervention", "Fearmonger", "Hex: Devour Hope", "Jolt"]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Adrian",
+    "survivor": "Yui",
+    "perks": ["Dead Hard", "Diversion", "Iron Will", "Quick & Quite"]
+  },
+  {
+    "name": "Aplod",
+    "survivor": "Rebecca",
+    "perks": ["Alert", "Dark Sense", "Object Of Obsession", "Resilience"]
+  },
+  {
+    "name": "Amz",
+    "survivor": "Jane",
+    "perks": ["Boil Over", "Bond", "Lightweight", "Lithe"]
+  },
+  {
+    "name": "Brandon",
+    "survivor": "Laurie",
+    "perks": ["Any Means Necessary", "Bond", "Lithe", "Stake Out"]
+  },
+  {
+    "name": "Doughnut",
+    "survivor": "Dwight",
+    "perks": ["Adrenaline", "Head On", "Prove Thyself", "Quick & Quite"]
+  },
+  {
+    "name": "Dakota",
+    "survivor": "Ada",
+    "perks": ["Adrenaline", "Dead Hard", "Self-Aware", "Windows of Opportunity"]
+  },
+  {
+    "name": "Forte",
+    "survivor": "Mikaela",
+    "perks": [
+      "Boon: Circle of Healing",
+      "Prove Thyself",
+      "Sprint Burst",
+      "Windows of Opportunity"
+    ]
+  },
+  {
+    "name": "Jai",
+    "survivor": "Yui",
+    "perks": ["Adrenaline", "Head On", "Parental Guidance", "Quick & Quite"]
+  },
+  {
+    "name": "Jason",
+    "survivor": "Felix",
+    "perks": [
+      "Dance With Me",
+      "Lithe",
+      "Quick & Quite",
+      "Windows of Opportunity"
+    ]
+  },
+  {
+    "name": "Mario",
+    "survivor": "Feng",
+    "perks": ["Adrenaline", "Decisive Strike", "Hope", "Resilience"]
+  },
+  {
+    "name": "Micah",
+    "survivor": "Felix",
+    "perks": ["Balanced Landing", "Lithe", "Quick & Quite", "Resilience"]
+  },
+  {
+    "name": "Oli",
+    "survivor": "Claudette",
+    "perks": ["Alert", "Self-Aware", "Sprint Burst", "Windows of Opportunity"]
+  },
+  {
+    "name": "Zack",
+    "survivor": "Jill",
+    "perks": ["Adrenaline", "Lithe", "Prove Thyself", "Resurgence"]
+  }
+]
