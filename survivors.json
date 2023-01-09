@@ -2,7 +2,7 @@
   {
     "name": "Adrian",
     "survivor": "Yui",
-    "perks": ["Dead Hard", "Diversion", "Iron Will", "Quick & Quite"]
+    "perks": ["Dead Hard", "Diversion", "Iron Will", "Quick & Quiet"]
   },
   {
     "name": "Aplod",
@@ -22,7 +22,7 @@
   {
     "name": "Doughnut",
     "survivor": "Dwight",
-    "perks": ["Adrenaline", "Head On", "Prove Thyself", "Quick & Quite"]
+    "perks": ["Adrenaline", "Head On", "Prove Thyself", "Quick & Quiet"]
   },
   {
     "name": "Dakota",
@@ -42,7 +42,7 @@
   {
     "name": "Jai",
     "survivor": "Yui",
-    "perks": ["Adrenaline", "Head On", "Parental Guidance", "Quick & Quite"]
+    "perks": ["Adrenaline", "Head On", "Parental Guidance", "Quick & Quiet"]
   },
   {
     "name": "Jason",
@@ -50,7 +50,7 @@
     "perks": [
       "Dance With Me",
       "Lithe",
-      "Quick & Quite",
+      "Quick & Quiet",
       "Windows of Opportunity"
     ]
   },
@@ -62,7 +62,7 @@
   {
     "name": "Micah",
     "survivor": "Felix",
-    "perks": ["Balanced Landing", "Lithe", "Quick & Quite", "Resilience"]
+    "perks": ["Balanced Landing", "Lithe", "Quick & Quiet", "Resilience"]
   },
   {
     "name": "Oli",
