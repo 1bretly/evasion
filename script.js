@@ -1,13 +1,19 @@
+const friend = document.getElementById("friend")
+
+// fetch("https://evasion.cyclic.app/friends-survivors")
+//   .then((res) => res.json())
+//   .then((data) => {
+//     data = data[Math.floor(Math.random() * data.length)]
+//     data = `${data.name}: ${data.survivor}- ${data.perks.join(", ")}`
+//     friend.innerHTML = data
+//     console.log(data)
+//   })
+
 fetch("https://evasion.cyclic.app/friends-survivors")
   .then((res) => res.json())
   .then((data) => {
-    let result = data[Math.floor(Math.random() * data.length)]
-    console.log(result)
-    const friend = document.getElementById("friend")
-    friend.innerHTML =
-      result.name +
-      ": " +
-      result.survivor +
-      ", " +
-      result.perks.toString().replaceAll(",", ", ")
+    data = data[Math.floor(Math.random() * data.length)]
+    data = `${data.name}: ${data.survivor}- ${data.perks.join(", ")}`
+    friend.innerHTML = data
+    console.log(data)
   })

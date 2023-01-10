@@ -80,6 +80,16 @@
     "perks": ["Agitation", "Hex: Blood Favor", "Hex: Devour Hope", "Starstruck"]
   },
   {
+    "name": "Melidor",
+    "killer": "Onryō",
+    "perks": [
+      "Jolt",
+      "Lethal Pursuer",
+      "Make Your Choice",
+      "Scourge Hook: Floods Of Rage"
+    ]
+  },
+  {
     "name": "Micah",
     "killer": "Shape",
     "perks": [

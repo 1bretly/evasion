@@ -60,6 +60,16 @@
     "perks": ["Adrenaline", "Decisive Strike", "Hope", "Resilience"]
   },
   {
+    "name": "Melidor",
+    "survivor": "Yui",
+    "perks": [
+      "Any Means Necessary",
+      "Detective's Hunch",
+      "Inner Healing",
+      "Overcome"
+    ]
+  },
+  {
     "name": "Micah",
     "survivor": "Felix",
     "perks": ["Balanced Landing", "Lithe", "Quick & Quiet", "Resilience"]
