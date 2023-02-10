@@ -55,11 +55,6 @@
     ]
   },
   {
-    "name": "Mario",
-    "survivor": "Feng",
-    "perks": ["Adrenaline", "Decisive Strike", "Hope", "Resilience"]
-  },
-  {
     "name": "Melidor",
     "survivor": "Yui",
     "perks": [

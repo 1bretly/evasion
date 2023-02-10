@@ -75,11 +75,6 @@
     ]
   },
   {
-    "name": "Mario",
-    "killer": "Spirit",
-    "perks": ["Agitation", "Hex: Blood Favor", "Hex: Devour Hope", "Starstruck"]
-  },
-  {
     "name": "Melidor",
     "killer": "Onryō",
     "perks": [
