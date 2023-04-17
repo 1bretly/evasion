@@ -1,10 +1,5 @@
 [
   {
-    "name": "Adrian",
-    "survivor": "Yui",
-    "perks": ["Dead Hard", "Diversion", "Iron Will", "Quick & Quiet"]
-  },
-  {
     "name": "Aplod",
     "survivor": "Rebecca",
     "perks": ["Alert", "Dark Sense", "Object Of Obsession", "Resilience"]
@@ -20,7 +15,7 @@
     "perks": ["Any Means Necessary", "Bond", "Lithe", "Stake Out"]
   },
   {
-    "name": "Doughnut",
+    "name": "Doughy",
     "survivor": "Dwight",
     "perks": ["Adrenaline", "Head On", "Prove Thyself", "Quick & Quiet"]
   },

@@ -1,15 +1,5 @@
 [
   {
-    "name": "Adrian",
-    "killer": "Oni",
-    "perks": [
-      "Monitor & Abuse",
-      "Overcharge",
-      "Sloppy Butcher",
-      "Thanatophobia"
-    ]
-  },
-  {
     "name": "Aplod",
     "killer": "Knight",
     "perks": [
@@ -30,7 +20,7 @@
     "perks": ["A Nurse's Calling", "Fearmonger", "Tinkerer", "Unrelenting"]
   },
   {
-    "name": "Doughnut",
+    "name": "Doughy",
     "killer": "Shape",
     "perks": [
       "Iron Grasp",
