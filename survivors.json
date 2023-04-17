@@ -28,9 +28,9 @@
     "name": "Forte",
     "survivor": "Mikaela",
     "perks": [
-      "Boon: Circle of Healing",
-      "Dead Hard",
+      "Adrenaline",
       "Resilience",
+      "Sprint Burst",
       "Windows of Opportunity"
     ]
   },
@@ -48,6 +48,16 @@
       "Quick & Quiet",
       "Windows of Opportunity"
     ]
+  },
+  {
+    "name": "Jordoon",
+    "survivor": "Quentin",
+    "perks": ["Adrenaline", "Dead Hard", "Resilience", "Windows of Opportunity"]
+  },
+  {
+    "name": "Mabel",
+    "survivor": "Feng",
+    "perks": ["Adrenaline", "Blast Mine", "Boil Over", "Flip-Flop"]
   },
   {
     "name": "Melidor",
