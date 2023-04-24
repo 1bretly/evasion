@@ -37,12 +37,7 @@
   {
     "name": "Forte",
     "killer": "Deathslinger",
-    "perks": [
-      "I'm All Ears",
-      "Jolt",
-      "Merciless Storm",
-      "Save The Best For Last"
-    ]
+    "perks": ["Deadlock", "Fearmonger", "Jolt", "Save The Best For Last"]
   },
   {
     "name": "Jai",
