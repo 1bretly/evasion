@@ -37,7 +37,12 @@
   {
     "name": "Forte",
     "killer": "Deathslinger",
-    "perks": ["Deadlock", "Fearmonger", "Jolt", "Save The Best For Last"]
+    "perks": [
+      "Dead Man's Switch",
+      "Fearmonger",
+      "Save The Best For Last",
+      "Sloppy Butcher"
+    ]
   },
   {
     "name": "Jai",
