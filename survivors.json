@@ -5,16 +5,6 @@
     "perks": ["Alert", "Dark Sense", "Object Of Obsession", "Resilience"]
   },
   {
-    "name": "Amz",
-    "survivor": "Jane",
-    "perks": ["Boil Over", "Bond", "Lightweight", "Lithe"]
-  },
-  {
-    "name": "Brandon",
-    "survivor": "Laurie",
-    "perks": ["Any Means Necessary", "Bond", "Lithe", "Stake Out"]
-  },
-  {
     "name": "Doughy",
     "survivor": "Dwight",
     "perks": ["Adrenaline", "Head On", "Prove Thyself", "Quick & Quiet"]
@@ -33,6 +23,11 @@
       "Sprint Burst",
       "Windows of Opportunity"
     ]
+  },
+  {
+    "name": "Icy",
+    "survivor": "Ada",
+    "perks": ["Dead Hard", "Decisive Strike", "Made For This", "Resilience"]
   },
   {
     "name": "Jai",

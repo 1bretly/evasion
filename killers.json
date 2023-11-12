@@ -10,16 +10,6 @@
     ]
   },
   {
-    "name": "Amz",
-    "killer": "Doctor",
-    "perks": ["Deerstalker", "I'm All Ears", "Iron Grasp", "Tinkerer"]
-  },
-  {
-    "name": "Brandon",
-    "killer": "Nemesis",
-    "perks": ["A Nurse's Calling", "Fearmonger", "Tinkerer", "Unrelenting"]
-  },
-  {
     "name": "Doughy",
     "killer": "Shape",
     "perks": [
